@@ -1,0 +1,2 @@
+﻿  ConstMethod.cpp
+c:\c,c++\c++ study\클래스\classex\constmethod\constmethod.cpp(26): error C4716: 'CTest::setData': 값을 반환해야 합니다.
